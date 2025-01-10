@@ -8,7 +8,7 @@
 
 import mysql.connector
 
-# Establishing a connection now 
+# Establishing a connection now  
 dataBase = mysql.connector.connect(
     host = 'localhost',
     user = 'root',
